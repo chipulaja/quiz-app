@@ -4,17 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Quiz App</title>
-  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <header>
-    <h1>Quiz App</h1>
+    <h1><a href="/quiz-app/" class="header-link">Quiz App</a></h1>
   </header>
   <nav>
     <ul>
-      <li><a href="/question/soal1">Soal 1</a></li>
-      <li><a href="/question/soal2">Soal 2</a></li>
-      <li><a href="/information.html">Informasi</a></li>
+      <li><a href="#/question/soal1">Soal 1</a></li>
+      <li><a href="#/question/soal2">Soal 2</a></li>
     </ul>
   </nav>
   <main>
@@ -45,7 +45,10 @@
       </ul>
     </div>
   </main>
+  <div id="loading-animation" class="hidden">
+    <div class="loader"></div>
+  </div>
   <script src="https://cdn.jsdelivr.net/npm/diff@5.1.0/dist/diff.min.js" type="module"></script>
-  <script src="/js/app.js" type="module"></script>
+  <script src="js/app.js" type="module"></script>
 </body>
 </html>

@@ -13,13 +13,19 @@ export default class QuizController {
     this.view.elements.backButton.addEventListener("click", () => this.prevQuestion());
     this.view.elements.nextButton.addEventListener("click", () => this.nextQuestion());
     this.view.elements.submitButton.addEventListener("click", () => this.submitAnswers());
-    this.view.elements.tryAgainButton.addEventListener("click", () => this.resetQuiz());
+    this.view.elements.tryAgainButton.addEventListener("click", () => this.reloadQuiz());
     this.view.elements.answerElement.addEventListener("input", () => this.handleInput());
   }
 
   async loadQuestions(quizName) {
+    // Tampilkan animasi loading
+    document.getElementById("loading-animation").classList.remove("hidden");
+
     this.quizName = quizName; // Menyimpan quizName ke controller
     await this.model.loadQuestions(quizName);
+
+    // Sembunyikan animasi loading
+    document.getElementById("loading-animation").classList.add("hidden");
     this.view.resetView();
     this.view.showQuizNotes(this.model.quizNotes); // Menampilkan notes dari kuis
     this.showQuestion(0); // Tampilkan pertanyaan pertama setelah memuat pertanyaan
@@ -61,6 +67,10 @@ export default class QuizController {
   }
 
   resetQuiz() {
+    this.model.resetQuestion();
+  }
+
+  reloadQuiz() {
     this.model.resetCurrentQuestionIndex();
     this.loadQuestions(this.quizName);
   }

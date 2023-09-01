@@ -229,6 +229,74 @@ a:hover {
   text-align: center;
 }
 
+/* styles.css */
+
 #home-container {
   text-align: center;
+  padding: 20px;
+}
+
+#home-container h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+#home-container p {
+  font-size: 1.2em;
+}
+
+#home-container a {
+  color: blue;
+  text-decoration: none;
+}
+
+#home-container .info-section {
+  margin-top: 20px;
+  font-size: 1em;
+}
+
+#home-container .instagram-icon {
+  width: 24px;
+  vertical-align: middle;
+}
+
+#home-container .instagram-handle {
+  color: blue;
+}
+
+.hidden {
+  display: none;
+}
+
+#loading-animation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  z-index: 9999;
+}
+
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 5px solid #3498db;
+  width: 50px;
+  height: 50px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.header-link {
+  text-decoration: none;
+  color: inherit;
 }

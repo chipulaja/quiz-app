@@ -1,31 +1,11 @@
-/*
 const Router = {
   routes: [],
+  basePath: "/",
   addRoute(route, handler) {
     this.routes.push({ route, handler });
   },
   navigate() {
-    const currentRoute = window.location.pathname;
-    const matchedRoute = this.routes.find(route => route.route === currentRoute);
-
-    if (matchedRoute) {
-      matchedRoute.handler();
-    } else {
-      console.error("Route not found!");
-    }
-  }
-};
-
-export default Router;
-*/
-
-const Router = {
-  routes: [],
-  addRoute(route, handler) {
-    this.routes.push({ route, handler });
-  },
-  navigate() {
-    const currentRoute = window.location.pathname;
+    const currentRoute = window.location.hash.replace("#", "") || "/";
     const matchedRoute = this.routes.find(route => {
       const regex = new RegExp(`^${route.route.replace(/\/:[^/]+/g, '(/[^/]+)')}$`);
       return currentRoute.match(regex);
@@ -36,6 +16,9 @@ const Router = {
     } else {
       console.error("Route not found!");
     }
+  },
+  setBasePath(path) {
+    this.basePath = path;
   }
 };
 

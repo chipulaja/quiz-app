@@ -14,6 +14,7 @@ export default class QuizView {
       resultText: document.getElementById("result-text"),
       tryAgainButton: document.getElementById("try-again"),
       questionNumberElement: document.getElementById("question-number"),
+      homeContainer: document.getElementById("home-container"),
       // ... tambahkan elemen lainnya jika ada ...
     };
   }
@@ -60,8 +61,22 @@ export default class QuizView {
     const homeContainer = document.getElementById("home-container");
     homeContainer.style.display = "block";
     homeContainer.innerHTML = `
-      <h1>Selamat datang di Kuis kami!</h1>
-      <p>Pilih kuis yang ingin Anda ikuti dan mulailah petualangan pengetahuan Anda!</p>
+      <h1>Selamat Datang di Kuis Chipulaja!</h1>
+      <p>Mulai petualangan pengetahuan mu dengan memilih kuis di atas.</p>
+
+      <div class="info-section">
+        <p>Untuk kode dan info lebih lanjut, kunjungi:</p>
+        <a href="https://github.com/chipulaja/quiz-app"><strong>GitHub Chipulaja Quiz App</strong></a>
+      </div>
+
+      <div class="info-section">
+        <p>Dapatkan info terbaru dengan ngefollow :</p>
+        <a href="https://www.instagram.com/chipulaja/" target="_blank">
+          <img src="images/instagram-icon.png" alt="Instagram Icon" class="instagram-icon">
+          <span class="instagram-handle">@chipulaja</span>
+        </a>
+      </div>
+
       <!-- Anda bisa menambahkan tautan atau daftar kuis di sini -->
     `;
   }
@@ -89,7 +104,7 @@ export default class QuizView {
     var span = null;
     const diff = Diff.diffWordsWithSpace(answer, userAnswer),
       fragment = document.createDocumentFragment();
-  
+
     diff.forEach((part) => {
       const color = part.added ? 'green' :
         part.removed ? 'red' : 'grey';
@@ -149,6 +164,8 @@ export default class QuizView {
     this.elements.resultContainer.style.display = 'none';
     this.elements.questionReviewElement.style.display = 'none';
     this.elements.questionContainer.style.display = 'block';
+    this.elements.questionNumberElement.style.display = 'block';
+    this.elements.homeContainer.style.display = 'none';
   }
 
   // ... metode lain untuk menghandle tampilan ...

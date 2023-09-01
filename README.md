@@ -22,15 +22,12 @@ Cara menggunakannya cukup simpel, buat soal kemudian letakkan di folder data den
 ```
 3. sesuaikan kode `index.html` untuk mendaftarkan soal yang sudah di buat
 ```html
-  <nav>
-    <ul>
-      <li><a href="/question/soal1">Soal 1</a></li>
-      <li><a href="/question/soal2">Soal 2</a></li>
-      <li><a href="/question/soal3">Soal 3</a></li>
-      <li><a href="/question/soal4">Soal 4</a></li>
-      <li><a href="/information.html">Informasi</a></li>
-    </ul>
-  </nav>
+    <nav>
+      <ul>
+        <li><a href="#/question/soal1">Soal 1</a></li>
+        <li><a href="#/question/soal2">Soal 2</a></li>
+      </ul>
+    </nav>
 ```
 
 ## Membuat Soal ##

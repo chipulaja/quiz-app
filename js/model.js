@@ -8,13 +8,18 @@ export default class QuizModel {
     this.wrongAnswers = 0;
     this.quizName = "";
     this.quizNotes = "";
+    this.basePath = "/";
+  }
+
+  setBasePath(path) {
+    this.basePath = path;
   }
 
   async loadQuestions(quizName) {
     try {
       // Periksa apakah quiz dengan nama quizName sudah dimuat sebelumnya
       if (!this.loadedQuizzes[quizName]) {
-        const response = await fetch(`/data/${quizName}.json`);
+        const response = await fetch(`${this.basePath}data/${quizName}.json`);
         const quiz = await response.json();
 
         // Simpan quiz ke dalam objek loadedQuizzes agar tidak perlu dimuat lagi di kemudian hari
@@ -52,5 +57,16 @@ export default class QuizModel {
 
   resetCurrentQuestionIndex() {
     this.currentQuestionIndex = 0;
+  }
+
+  resetQuestion() {
+    this.loadedQuizzes = {};
+    this.currentQuestionIndex = 0;
+    this.questions = [];
+    this.shuffledQuestions = [];
+    this.correctAnswers = 0;
+    this.wrongAnswers = 0;
+    this.quizName = "";
+    this.quizNotes = "";
   }
 }
