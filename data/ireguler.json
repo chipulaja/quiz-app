@@ -1,0 +1,550 @@
+{
+    "notes": "Sebutkan bentuk verb 1,2,3 dari kata kerja tak beraturan di bawah ini",
+    "questions": [
+        {
+            "question": "timbul, muncul atau bangun",
+            "answer": "arise, arose, arisen",
+            "explanation": ""
+        },
+        {
+            "question": "terbangun, bangun",
+            "answer": "awake, awoke, awoken",
+            "explanation": ""
+        },
+        {
+            "question": "menjadi",
+            "answer": "be, was/were, been",
+            "explanation": ""
+        },
+        {
+            "question": "melahirkan, membawa",
+            "answer": "bear, bore, borne/born",
+            "explanation": ""
+        },
+        {
+            "question": "mengalahkan",
+            "answer": "beat, beat, beaten",
+            "explanation": ""
+        },
+        {
+            "question": "mulai",
+            "answer": "begin, began, begun",
+            "explanation": ""
+        },
+        {
+            "question": "membungkuk",
+            "answer": "bend, bent, bent",
+            "explanation": ""
+        },
+        {
+            "question": "bertaruh",
+            "answer": "bet, bet, bet",
+            "explanation": ""
+        },
+        {
+            "question": "mengikat",
+            "answer": "bind, bound, bound",
+            "explanation": ""
+        },
+        {
+            "question": "menggigit",
+            "answer": "bite, bit, bitten",
+            "explanation": ""
+        },
+        {
+            "question": "berdarah",
+            "answer": "bleed, bled, bled",
+            "explanation": ""
+        },
+        {
+            "question": "tiup",
+            "answer": "blow, blew, blown",
+            "explanation": ""
+        },
+        {
+            "question": "pecah",
+            "answer": "break, broke, broken",
+            "explanation": ""
+        },
+        {
+            "question": "membawa",
+            "answer": "bring, brought, brought",
+            "explanation": ""
+        },
+        {
+            "question": "membangun",
+            "answer": "build, built, built",
+            "explanation": ""
+        },
+        {
+            "question": "membeli",
+            "answer": "buy, bought, bought",
+            "explanation": ""
+        },
+        {
+            "question": "menangkap",
+            "answer": "catch, caught, caught",
+            "explanation": ""
+        },
+        {
+            "question": "memilih",
+            "answer": "choose, chose, chosen",
+            "explanation": ""
+        },
+        {
+            "question": "datang",
+            "answer": "come, came, come",
+            "explanation": ""
+        },
+        {
+            "question": "biaya",
+            "answer": "cost, cost, cost",
+            "explanation": ""
+        },
+        {
+            "question": "memotong",
+            "answer": "cut, cut, cut",
+            "explanation": ""
+        },
+        {
+            "question": "berurusan, menangani",
+            "answer": "deal, dealt, dealt",
+            "explanation": ""
+        },
+        {
+            "question": "menggali",
+            "answer": "dig, dug, dug",
+            "explanation": ""
+        },
+        {
+            "question": "melakukan",
+            "answer": "do, did, done",
+            "explanation": ""
+        },
+        {
+            "question": "menggambar",
+            "answer": "draw, drew, drawn",
+            "explanation": ""
+        },
+        {
+            "question": "minum",
+            "answer": "drink, drank, drunk",
+            "explanation": ""
+        },
+        {
+            "question": "mengemudi",
+            "answer": "drive, drove, driven",
+            "explanation": ""
+        },
+        {
+            "question": "makan",
+            "answer": "eat, ate, eaten",
+            "explanation": ""
+        },
+        {
+            "question": "jatuh",
+            "answer": "fall, fell, fallen",
+            "explanation": ""
+        },
+        {
+            "question": "memberi makan",
+            "answer": "feed, fed, fed",
+            "explanation": ""
+        },
+        {
+            "question": "merasa",
+            "answer": "feel, felt, felt",
+            "explanation": ""
+        },
+        {
+            "question": "bertarung",
+            "answer": "fight, fought, fought",
+            "explanation": ""
+        },
+        {
+            "question": "menemukan",
+            "answer": "find, found, found",
+            "explanation": ""
+        },
+        {
+            "question": "terbang",
+            "answer": "fly, flew, flown",
+            "explanation": ""
+        },
+        {
+            "question": "melupakan",
+            "answer": "forget, forgot, forgotten",
+            "explanation": ""
+        },
+        {
+            "question": "memaafkan",
+            "answer": "forgive, forgave, forgiven",
+            "explanation": ""
+        },
+        {
+            "question": "membeku",
+            "answer": "freeze, froze, frozen",
+            "explanation": ""
+        },
+        {
+            "question": "mendapatkan",
+            "answer": "get, got, gotten/got",
+            "explanation": ""
+        },
+        {
+            "question": "memberikan",
+            "answer": "give, gave, given",
+            "explanation": ""
+        },
+        {
+            "question": "pergi",
+            "answer": "go, went, gone",
+            "explanation": ""
+        },
+        {
+            "question": "tumbuh",
+            "answer": "grow, grew, grown",
+            "explanation": ""
+        },
+        {
+            "question": "memiliki",
+            "answer": "have, had, had",
+            "explanation": ""
+        },
+        {
+            "question": "mendengar",
+            "answer": "hear, heard, heard",
+            "explanation": ""
+        },
+        {
+            "question": "menyembunyikan",
+            "answer": "hide, hid, hidden",
+            "explanation": ""
+        },
+        {
+            "question": "memukul",
+            "answer": "hit, hit, hit",
+            "explanation": ""
+        },
+        {
+            "question": "menahan",
+            "answer": "hold, held, held",
+            "explanation": ""
+        },
+        {
+            "question": "melukai",
+            "answer": "hurt, hurt, hurt",
+            "explanation": ""
+        },
+        {
+            "question": "menjaga",
+            "answer": "keep, kept, kept",
+            "explanation": ""
+        },
+        {
+            "question": "tahu",
+            "answer": "know, knew, known",
+            "explanation": ""
+        },
+        {
+            "question": "meletakkan",
+            "answer": "lay, laid, laid",
+            "explanation": ""
+        },
+        {
+            "question": "memimpin",
+            "answer": "lead, led, led",
+            "explanation": ""
+        },
+        {
+            "question": "meninggalkan",
+            "answer": "leave, left, left",
+            "explanation": ""
+        },
+        {
+            "question": "meminjamkan",
+            "answer": "lend, lent, lent",
+            "explanation": ""
+        },
+        {
+            "question": "membiarkan",
+            "answer": "let, let, let",
+            "explanation": ""
+        },
+        {
+            "question": "berbaring",
+            "answer": "lie, lay, lain",
+            "explanation": ""
+        },
+        {
+            "question": "menyalakan",
+            "answer": "light, lit, lit",
+            "explanation": ""
+        },
+        {
+            "question": "kehilangan",
+            "answer": "lose, lost, lost",
+            "explanation": ""
+        },
+        {
+            "question": "membuat",
+            "answer": "make, made, made",
+            "explanation": ""
+        },
+        {
+            "question": "berarti",
+            "answer": "mean, meant, meant",
+            "explanation": ""
+        },
+        {
+            "question": "bertemu",
+            "answer": "meet, met, met",
+            "explanation": ""
+        },
+        {
+            "question": "membayar",
+            "answer": "pay, paid, paid",
+            "explanation": ""
+        },
+        {
+            "question": "meletakkan",
+            "answer": "put, put, put",
+            "explanation": ""
+        },
+        {
+            "question": "membaca",
+            "answer": "read, read, read",
+            "explanation": ""
+        },
+        {
+            "question": "mengendarai",
+            "answer": "ride, rode, ridden",
+            "explanation": ""
+        },
+        {
+            "question": "berdering",
+            "answer": "ring, rang, rung",
+            "explanation": ""
+        },
+        {
+            "question": "naik",
+            "answer": "rise, rose, risen",
+            "explanation": ""
+        },
+        {
+            "question": "lari",
+            "answer": "run, ran, run",
+            "explanation": ""
+        },
+        {
+            "question": "mengatakan",
+            "answer": "say, said, said",
+            "explanation": ""
+        },
+        {
+            "question": "melihat",
+            "answer": "see, saw, seen",
+            "explanation": ""
+        },
+        {
+            "question": "mencari",
+            "answer": "seek, sought, sought",
+            "explanation": ""
+        },
+        {
+            "question": "menjual",
+            "answer": "sell, sold, sold",
+            "explanation": ""
+        },
+        {
+            "question": "mengirim",
+            "answer": "send, sent, sent",
+            "explanation": ""
+        },
+        {
+            "question": "menetapkan",
+            "answer": "set, set, set",
+            "explanation": ""
+        },
+        {
+            "question": "mengguncang",
+            "answer": "shake, shook, shaken",
+            "explanation": ""
+        },
+        {
+            "question": "bersinar",
+            "answer": "shine, shone, shone",
+            "explanation": ""
+        },
+        {
+            "question": "menembak",
+            "answer": "shoot, shot, shot",
+            "explanation": ""
+        },
+        {
+            "question": "menunjukkan",
+            "answer": "show, showed, shown",
+            "explanation": ""
+        },
+        {
+            "question": "mengecil",
+            "answer": "shrink, shrank/shrunk, shrunk",
+            "explanation": ""
+        },
+        {
+            "question": "menutup",
+            "answer": "shut, shut, shut",
+            "explanation": ""
+        },
+        {
+            "question": "menyanyi",
+            "answer": "sing, sang, sung",
+            "explanation": ""
+        },
+        {
+            "question": "tenggelam",
+            "answer": "sink, sank, sunk",
+            "explanation": ""
+        },
+        {
+            "question": "duduk",
+            "answer": "sit, sat, sat",
+            "explanation": ""
+        },
+        {
+            "question": "tidur",
+            "answer": "sleep, slept, slept",
+            "explanation": ""
+        },
+        {
+            "question": "meluncur",
+            "answer": "slide, slid, slid",
+            "explanation": ""
+        },
+        {
+            "question": "berbicara",
+            "answer": "speak, spoke, spoken",
+            "explanation": ""
+        },
+        {
+            "question": "menghabiskan",
+            "answer": "spend, spent, spent",
+            "explanation": ""
+        },
+        {
+            "question": "berputar",
+            "answer": "spin, spun, spun",
+            "explanation": ""
+        },
+        {
+            "question": "membelah",
+            "answer": "split, split, split",
+            "explanation": ""
+        },
+        {
+            "question": "menyebar",
+            "answer": "spread, spread, spread",
+            "explanation": ""
+        },
+        {
+            "question": "berdiri",
+            "answer": "stand, stood, stood",
+            "explanation": ""
+        },
+        {
+            "question": "mencuri",
+            "answer": "steal, stole, stolen",
+            "explanation": ""
+        },
+        {
+            "question": "menancapkan",
+            "answer": "stick, stuck, stuck",
+            "explanation": ""
+        },
+        {
+            "question": "menusuk",
+            "answer": "sting, stung, stung",
+            "explanation": ""
+        },
+        {
+            "question": "memukul",
+            "answer": "strike, struck, struck/stricken",
+            "explanation": ""
+        },
+        {
+            "question": "bersumpah",
+            "answer": "swear, swore, sworn",
+            "explanation": ""
+        },
+        {
+            "question": "menyapu",
+            "answer": "sweep, swept, swept",
+            "explanation": ""
+        },
+        {
+            "question": "berenang",
+            "answer": "swim, swam, swum",
+            "explanation": ""
+        },
+        {
+            "question": "mengayun",
+            "answer": "swing, swung, swung",
+            "explanation": ""
+        },
+        {
+            "question": "mengambil",
+            "answer": "take, took, taken",
+            "explanation": ""
+        },
+        {
+            "question": "mengajar",
+            "answer": "teach, taught, taught",
+            "explanation": ""
+        },
+        {
+            "question": "merobek",
+            "answer": "tear, tore, torn",
+            "explanation": ""
+        },
+        {
+            "question": "menceritakan",
+            "answer": "tell, told, told",
+            "explanation": ""
+        },
+        {
+            "question": "berpikir",
+            "answer": "think, thought, thought",
+            "explanation": ""
+        },
+        {
+            "question": "melempar",
+            "answer": "throw, threw, thrown",
+            "explanation": ""
+        },
+        {
+            "question": "memahami",
+            "answer": "understand, understood, understood",
+            "explanation": ""
+        },
+        {
+            "question": "bangun",
+            "answer": "wake, woke, woken",
+            "explanation": ""
+        },
+        {
+            "question": "memakai",
+            "answer": "wear, wore, worn",
+            "explanation": ""
+        },
+        {
+            "question": "menang",
+            "answer": "win, won, won",
+            "explanation": ""
+        },
+        {
+            "question": "menulis",
+            "answer": "write, wrote, written",
+            "explanation": ""
+        }
+    ]
+}
