@@ -98,7 +98,7 @@ buatkan lagi pertanyaan yang berbeda
 ## Daftar Materi Bahasa Inggris Yang Bisa Dipelajari
 
 ### Tenses
-- Simple Present
+- [Simple Present](./readme/01_simple_present.md)
 - Present Continuous
 - Present Perfect
 - Present Perfect Continuous

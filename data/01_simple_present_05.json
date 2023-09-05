@@ -1,0 +1,55 @@
+{
+    "notes": "Berikut adalah soal-soal latihan berdasarkan kalimat dalam Bahasa Indonesia yang telah diterjemahkan ke dalam Bahasa Inggris. Penjelasan mencakup jenis tenses atau grammar yang digunakan.",
+    "questions": [
+        {
+            "question": "Ini adalah buku saya.",
+            "answer": "This is my book.",
+            "explanation": "<p class='review-pertanyaan'>Ini adalah buku saya.</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu kenyataan atau fakta.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb 'to be' (is/are) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>This is my book.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>This</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>is</strong> adalah kata kerja 'to be' dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>my book</strong> adalah <strong>Object</strong> dari kalimat.</li></ul>"
+        },
+        {
+            "question": "Pohon itu berdaun hijau.",
+            "answer": "The tree has green leaves.",
+            "explanation": "<p class='review-pertanyaan'>Pohon itu berdaun hijau.</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu kenyataan atau fakta.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>The tree has green leaves.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>The tree</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>has</strong> adalah kata kerja dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>green leaves</strong> adalah <strong>Object</strong> dari kalimat.</li></ul>"
+        },
+        {
+            "question": "Saya tidak suka teh.",
+            "answer": "I don't like tea.",
+            "explanation": "<p class='review-pertanyaan'>Saya tidak suka teh.</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span> dengan bentuk negatif.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan preferensi atau keinginan.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + do/does not + Verb (Simple Present) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>I don't like tea.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>I</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>don't like</strong> adalah frasa kata kerja dalam bentuk <strong>Simple Present Tense</strong> negatif.</li><li><strong>tea</strong> adalah <strong>Object</strong> dari kalimat.</li></ul>"
+        },
+        {
+            "question": "Air mengalir ke bawah.",
+            "answer": "Water flows downward.",
+            "explanation": "<p class='review-pertanyaan'>Air mengalir ke bawah.</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan sebuah kenyataan atau hukum alam.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present) + Adverb</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>Water flows downward.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>Water</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>flows</strong> adalah kata kerja dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>downward</strong> adalah <strong>Adverb</strong> yang menjelaskan arah aliran air.</li></ul>"
+        },
+        {
+            "question": "Anak-anak itu lucu.",
+            "answer": "The children are cute.",
+            "explanation": "<p class='review-pertanyaan'>Anak-anak itu lucu.</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu kenyataan atau fakta.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb 'to be' (is/are) + Adjective</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>The children are cute.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>The children</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>are</strong> adalah kata kerja 'to be' dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>cute</strong> adalah <strong>Adjective</strong> atau kata sifat yang mendeskripsikan subjek.</li></ul>"
+        },
+        {
+            "question": "Matahari bersinar terang.",
+            "answer": "The sun shines brightly.",
+            "explanation": "<p class='review-pertanyaan'>Matahari bersinar terang.</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu kenyataan atau hukum alam.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present) + Adverb</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>The sun shines brightly.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>The sun</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>shines</strong> adalah kata kerja dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>brightly</strong> adalah <strong>Adverb</strong> yang menjelaskan cara matahari bersinar.</li></ul>"
+        },
+        {
+            "question": "Ibu memasak rendang.",
+            "answer": "Mom cooks rendang.",
+            "explanation": "<p class='review-pertanyaan'>Ibu memasak rendang.</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu aksi atau aktivitas.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>Mom cooks rendang.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>Mom</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>cooks</strong> adalah kata kerja dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>rendang</strong> adalah <strong>Object</strong> dari kalimat.</li></ul>"
+        },
+        {
+            "question": "Teknologi selalu berubah.",
+            "answer": "Technology always changes.",
+            "explanation": "<p class='review-pertanyaan'>Teknologi selalu berubah.</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu kenyataan yang sering terjadi atau hukum alam.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Adverb of Frequency + Verb (Simple Present)</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>Technology always changes.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>Technology</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>always</strong> adalah <strong>Adverb of Frequency</strong>.</li><li><strong>changes</strong> adalah kata kerja dalam bentuk <strong>Simple Present Tense</strong>.</li></ul>"
+        },
+        {
+            "question": "Ia tidak minum kopi.",
+            "answer": "He doesn't drink coffee.",
+            "explanation": "<p class='review-pertanyaan'>Ia tidak minum kopi.</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span> dengan bentuk negatif.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu preferensi atau keinginan.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + do/does not + Verb (Simple Present) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>He doesn't drink coffee.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>He</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>doesn't drink</strong> adalah frasa kata kerja dalam bentuk <strong>Simple Present Tense</strong> negatif.</li><li><strong>coffee</strong> adalah <strong>Object</strong> dari kalimat.</li></ul>"
+        },
+        {
+            "question": "Mereka membaca berita online.",
+            "answer": "They read online news.",
+            "explanation": "<p class='review-pertanyaan'>Mereka membaca berita online.</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu aksi atau aktivitas.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>They read online news.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>They</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>read</strong> adalah kata kerja dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>online news</strong> adalah <strong>Object</strong> dari kalimat.</li></ul>"
+        }
+    ]
+}

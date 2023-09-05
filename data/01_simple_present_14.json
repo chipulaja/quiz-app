@@ -1,0 +1,55 @@
+{
+    "notes": "Berikut adalah soal-soal latihan berdasarkan kalimat dalam Bahasa Indonesia yang telah diterjemahkan ke dalam Bahasa Inggris. Penjelasan mencakup jenis tenses atau grammar yang digunakan.",
+    "questions": [
+        {
+            "question": "Ia tidak suka membaca buku.",
+            "answer": "He doesn't like reading books.",
+            "explanation": "<p class='review-pertanyaan'>Ia tidak suka membaca buku.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span> dalam bentuk negatif.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu preferensi atau kesukaan.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + doesn't + like + Verb-ing</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>He doesn't like reading books.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>He</strong> adalah <strong>Subject</strong>.</li><li><strong>doesn't like</strong> adalah <strong>Verb</strong> dalam bentuk <strong>Simple Present Tense</strong> negatif.</li><li><strong>reading books</strong> adalah <strong>Verb-ing + Object</strong>.</li></ul>"
+        },
+        {
+            "question": "Saya suka bermain basket.",
+            "answer": "I like playing basketball.",
+            "explanation": "<p class='review-pertanyaan'>Saya suka bermain basket.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu kesukaan atau preferensi.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + like + Verb-ing</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>I like playing basketball.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>I</strong> adalah <strong>Subject</strong>.</li><li><strong>like</strong> adalah <strong>Verb</strong> dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>playing basketball</strong> adalah <strong>Verb-ing + Object</strong>.</li></ul>"
+        },
+        {
+            "question": "Apakah kamu suka menonton film?",
+            "answer": "Do you like watching movies?",
+            "explanation": "<p class='review-pertanyaan'>Apakah kamu suka menonton film?</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span> dengan <strong>Do</strong> sebagai auxiliary verb.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini mengajukan sebuah pertanyaan tentang preferensi atau kesukaan.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Do/Does + Subject + like + Verb-ing</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>Do you like watching movies?</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>Do</strong> adalah <strong>Auxiliary Verb</strong>.</li><li><strong>you</strong> adalah <strong>Subject</strong>.</li><li><strong>like watching movies</strong> adalah <strong>Verb + Verb-ing + Object</strong>.</li></ul>"
+        },
+        {
+            "question": "Saya ingin menjadi dokter hewan.",
+            "answer": "I want to be a veterinarian.",
+            "explanation": "<p class='review-pertanyaan'>Saya ingin menjadi dokter hewan.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu keinginan atau aspirasi.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + want + to + Base Verb</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>I want to be a veterinarian.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>I</strong> adalah <strong>Subject</strong>.</li><li><strong>want</strong> adalah <strong>Verb</strong> dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>to be a veterinarian</strong> adalah <strong>to + Base Verb + Object</strong>.</li></ul>"
+        },
+        {
+            "question": "Mereka berenang di kolam.",
+            "answer": "They swim in the pool.",
+            "explanation": "<p class='review-pertanyaan'>Mereka berenang di kolam.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu kegiatan atau aksi.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Base Verb + Prepositional Phrase</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>They swim in the pool.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>They</strong> adalah <strong>Subject</strong>.</li><li><strong>swim</strong> adalah <strong>Base Verb</strong> dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>in the pool</strong> adalah <strong>Prepositional Phrase</strong>.</li></ul>"
+        },
+        {
+            "question": "Rendang adalah makanan khas Sumatera Barat.",
+            "answer": "Rendang is a specialty dish from West Sumatra.",
+            "explanation": "<p class='review-pertanyaan'>Rendang adalah makanan khas Sumatera Barat.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan sebuah fakta atau kebenaran umum.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + is/are + Complement</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>Rendang is a specialty dish from West Sumatra.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>Rendang</strong> adalah <strong>Subject</strong>.</li><li><strong>is</strong> adalah <strong>Verb</strong> dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>a specialty dish from West Sumatra</strong> adalah <strong>Complement</strong>.</li></ul>"
+        },
+        {
+            "question": "Ia suka menulis cerita pendek.",
+            "answer": "She/He likes writing short stories.",
+            "explanation": "<p class='review-pertanyaan'>\"Ia suka menulis cerita pendek.\"</p><p class='review-pejelasan-grammar'>Kalimat di atas adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan sebuah kebiasaan atau preferensi.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>She/He likes writing short stories</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>She/He</strong> adalah <strong>Subject</strong> atau subjek dari kalimat.</li><li><strong>likes writing short stories</strong> adalah <strong>Verb Phrase</strong> dalam bentuk <strong>Simple Present Tense</strong>.</li></ul>"
+        },
+        {
+            "question": "Gunung Bromo adalah tujuan wisata populer.",
+            "answer": "Mount Bromo is a popular tourist destination.",
+            "explanation": "<p class='review-pertanyaan'>Gunung Bromo adalah tujuan wisata populer.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu fakta atau kebenaran umum.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + is/are + Complement</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>Mount Bromo is a popular tourist destination.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>Mount Bromo</strong> adalah <strong>Subject</strong>.</li><li><strong>is</strong> adalah <strong>Verb</strong> dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>a popular tourist destination</strong> adalah <strong>Complement</strong>.</li></ul>"
+        },
+        {
+            "question": "Dia suka memasak pasta.",
+            "answer": "She likes cooking pasta.",
+            "explanation": "<p class='review-pertanyaan'>Dia suka memasak pasta.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu kesukaan atau preferensi.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + likes/loves + Verb-ing</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>She likes cooking pasta.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>She</strong> adalah <strong>Subject</strong>.</li><li><strong>likes</strong> adalah <strong>Verb</strong> dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>cooking pasta</strong> adalah <strong>Object</strong>.</li></ul>"
+        },
+        {
+            "question": "Mereka suka bermain bulutangkis.",
+            "answer": "They enjoy playing badminton.",
+            "explanation": "<p class='review-pertanyaan'>Mereka suka bermain bulutangkis.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan suatu kesukaan atau preferensi.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + enjoy + Verb-ing</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>They enjoy playing badminton.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>They</strong> adalah <strong>Subject</strong>.</li><li><strong>enjoy</strong> adalah <strong>Verb</strong> dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>playing badminton</strong> adalah <strong>Object</strong>.</li></ul>"
+        }
+    ]
+}

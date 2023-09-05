@@ -1,0 +1,55 @@
+{
+    "notes": "Berikut adalah soal-soal latihan berdasarkan kalimat dalam Bahasa Indonesia yang telah diterjemahkan ke dalam Bahasa Inggris. Penjelasan mencakup jenis tenses atau grammar yang digunakan.",
+    "questions": [
+        {
+            "question": "Dia bermain voli.",
+            "answer": "He plays volleyball.",
+            "explanation": "<p class='review-pertanyaan'>Dia bermain voli.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan kebiasaan atau fakta umum.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present Tense) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>He plays volleyball.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>He</strong> adalah <strong>Subject</strong>.</li><li><strong>plays</strong> adalah bentuk <strong>Simple Present Tense</strong>.</li><li><strong>volleyball</strong> adalah <strong>Object</strong> dalam kalimat.</li></ul>"
+        },
+        {
+            "question": "Saya ingin menjadi penulis.",
+            "answer": "I want to be a writer.",
+            "explanation": "<p class='review-pertanyaan'>Saya ingin menjadi penulis.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Present Simple Tense</strong></span> dengan <strong>Modal Verb 'want'</strong>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan keinginan atau ambisi.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Modal Verb + to be + Noun/Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>I want to be a writer.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>I</strong> adalah <strong>Subject</strong>.</li><li><strong>want to be</strong> adalah <strong>Modal Verb</strong> dan <strong>to be</strong>.</li><li><strong>a writer</strong> adalah <strong>Object</strong> dalam kalimat.</li></ul>"
+        },
+        {
+            "question": "Mereka suka bermain kartu.",
+            "answer": "They like playing cards.",
+            "explanation": "<p class='review-pertanyaan'>Mereka suka bermain kartu.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan kebiasaan atau preferensi.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + like + Gerund (Verb-ing) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>They like playing cards.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>They</strong> adalah <strong>Subject</strong>.</li><li><strong>like</strong> adalah bentuk <strong>Simple Present Tense</strong>.</li><li><strong>playing cards</strong> adalah <strong>Gerund</strong> sebagai <strong>Object</strong>.</li></ul>"
+        },
+        {
+            "question": "Anda perlu olahraga setiap hari.",
+            "answer": "You need to exercise every day.",
+            "explanation": "<p class='review-pertanyaan'>Anda perlu olahraga setiap hari.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span> dengan <strong>Modal Verb 'need'</strong>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan kebutuhan atau saran.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Modal Verb + to + Base Form Verb + Time Expression</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>You need to exercise every day.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>You</strong> adalah <strong>Subject</strong>.</li><li><strong>need to</strong> adalah <strong>Modal Verb</strong>.</li><li><strong>exercise every day</strong> adalah <strong>Base Form Verb</strong> dan <strong>Time Expression</strong>.</li></ul>"
+        },
+        {
+            "question": "Apakah kamu suka jalan-jalan?",
+            "answer": "Do you like traveling?",
+            "explanation": "<p class='review-pertanyaan'>Apakah kamu suka jalan-jalan?</p><p class='review-pejelasan-grammar'>Kalimat ini adalah <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span> dalam bentuk interogatif.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan sebuah pertanyaan tentang preferensi atau kebiasaan.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Do/Does + Subject + like + Gerund (Verb-ing)</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>Do you like traveling?</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>Do you</strong> adalah <strong>Auxiliary Verb</strong> dan <strong>Subject</strong>.</li><li><strong>like</strong> adalah bentuk <strong>Simple Present Tense</strong>.</li><li><strong>traveling</strong> adalah <strong>Gerund</strong> sebagai <strong>Object</strong>.</li></ul>"
+        },
+        {
+            "question": "Orang tua mengajarkan banyak hal.",
+            "answer": "Parents teach many things.",
+            "explanation": "<p class='review-pertanyaan'>Orang tua mengajarkan banyak hal.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan fakta atau kebiasaan umum.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present Tense) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>Parents teach many things.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>Parents</strong> adalah <strong>Subject</strong>.</li><li><strong>teach</strong> adalah bentuk <strong>Simple Present Tense</strong>.</li><li><strong>many things</strong> adalah <strong>Object</strong> dalam kalimat.</li></ul>"
+        },
+        {
+            "question": "Kamera itu mahal.",
+            "answer": "The camera is expensive.",
+            "explanation": "<p class='review-pertanyaan'>Kamera itu mahal.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan fakta atau situasi yang tetap.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + to be + Adjective</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>The camera is expensive.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>The camera</strong> adalah <strong>Subject</strong>.</li><li><strong>is</strong> adalah bentuk <strong>to be</strong>.</li><li><strong>expensive</strong> adalah <strong>Adjective</strong> sebagai <strong>Complement</strong>.</li></ul>"
+        },
+        {
+            "question": "Teknologi membantu manusia.",
+            "answer": "Technology helps humans.",
+            "explanation": "<p class='review-pertanyaan'>Teknologi membantu manusia.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan fakta atau kebenaran umum.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present Tense) + Object</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>Technology helps humans.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>Technology</strong> adalah <strong>Subject</strong>.</li><li><strong>helps</strong> adalah bentuk <strong>Simple Present Tense</strong>.</li><li><strong>humans</strong> adalah <strong>Object</strong> dalam kalimat.</li></ul>"
+        },
+        {
+            "question": "Ayah pergi bekerja setiap hari.",
+            "answer": "Dad goes to work every day.",
+            "explanation": "<p class='review-pertanyaan'>Ayah pergi bekerja setiap hari.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan rutinitas atau kebiasaan.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present Tense) + Time Expression</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>Dad goes to work every day.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>Dad</strong> adalah <strong>Subject</strong>.</li><li><strong>goes to work</strong> adalah <strong>Verb Phrase</strong> dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>every day</strong> adalah <strong>Time Expression</strong> sebagai <strong>Adverbial</strong>.</li></ul>"
+        },
+        {
+            "question": "Mereka menonton film setiap akhir pekan.",
+            "answer": "They watch movies every weekend.",
+            "explanation": "<p class='review-pertanyaan'>Mereka menonton film setiap akhir pekan.</p><p class='review-pejelasan-grammar'>Kalimat ini menggunakan <span class='review-nama-grammar'><strong>Simple Present Tense</strong></span>.</p><p class='review-detail-pejelasan-grammar'>Kalimat ini menggambarkan rutinitas atau kebiasaan.</p><p><strong>Formula Umum:</strong></p><pre class='review-formula'>Subject + Verb (Simple Present Tense) + Time Expression</pre><p>Maka bahasa Inggrisnya adalah:</p><pre class='review-jawaban'>They watch movies every weekend.</pre><p><strong>Berikut detail penyusun kalimatnya:</strong></p><ul class='review-daftar-pejelasan-jawaban'><li><strong>They</strong> adalah <strong>Subject</strong>.</li><li><strong>watch movies</strong> adalah <strong>Verb Phrase</strong> dalam bentuk <strong>Simple Present Tense</strong>.</li><li><strong>every weekend</strong> adalah <strong>Time Expression</strong> sebagai <strong>Adverbial</strong>.</li></ul>"
+        }
+    ]
+}
