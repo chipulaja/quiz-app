@@ -1,0 +1,268 @@
+{
+  "daftar kata": [
+    {
+      "verb 1": "be",
+      "verb 2": "was/were",
+      "verb 3": "been",
+      "arti": "adalah/merupakan"
+    },
+    {
+      "verb 1": "begin",
+      "verb 2": "began",
+      "verb 3": "begun",
+      "arti": "memulai"
+    },
+    {
+      "verb 1": "bite",
+      "verb 2": "bit",
+      "verb 3": "bitten",
+      "arti": "menggigit"
+    },
+    {
+      "verb 1": "break",
+      "verb 2": "broke",
+      "verb 3": "broken",
+      "arti": "memecahkan"
+    },
+    {
+      "verb 1": "come",
+      "verb 2": "came",
+      "verb 3": "come",
+      "arti": "datang"
+    },
+    {
+      "verb 1": "do",
+      "verb 2": "did",
+      "verb 3": "done",
+      "arti": "melakukan"
+    },
+    {
+      "verb 1": "draw",
+      "verb 2": "drew",
+      "verb 3": "drawn",
+      "arti": "menggambar"
+    },
+    {
+      "verb 1": "drink",
+      "verb 2": "drank",
+      "verb 3": "drunk",
+      "arti": "minum"
+    },
+    {
+      "verb 1": "drive",
+      "verb 2": "drove",
+      "verb 3": "driven",
+      "arti": "mengemudi"
+    },
+    {
+      "verb 1": "eat",
+      "verb 2": "ate",
+      "verb 3": "eaten",
+      "arti": "makan"
+    },
+    {
+      "verb 1": "find",
+      "verb 2": "found",
+      "verb 3": "found",
+      "arti": "menemukan"
+    },
+    {
+      "verb 1": "fly",
+      "verb 2": "flew",
+      "verb 3": "flown",
+      "arti": "terbang"
+    },
+    {
+      "verb 1": "get",
+      "verb 2": "got",
+      "verb 3": "gotten",
+      "arti": "mendapatkan"
+    },
+    {
+      "verb 1": "give",
+      "verb 2": "gave",
+      "verb 3": "given",
+      "arti": "memberikan"
+    },
+    {
+      "verb 1": "go",
+      "verb 2": "went",
+      "verb 3": "gone",
+      "arti": "pergi"
+    },
+    {
+      "verb 1": "have",
+      "verb 2": "had",
+      "verb 3": "had",
+      "arti": "memiliki"
+    },
+    {
+      "verb 1": "know",
+      "verb 2": "knew",
+      "verb 3": "known",
+      "arti": "tahu"
+    },
+    {
+      "verb 1": "make",
+      "verb 2": "made",
+      "verb 3": "made",
+      "arti": "membuat"
+    },
+    {
+      "verb 1": "read",
+      "verb 2": "read",
+      "verb 3": "read",
+      "arti": "membaca"
+    },
+    {
+      "verb 1": "run",
+      "verb 2": "ran",
+      "verb 3": "run",
+      "arti": "berlari"
+    },
+    {
+      "verb 1": "say",
+      "verb 2": "said",
+      "verb 3": "said",
+      "arti": "mengatakan"
+    },
+    {
+      "verb 1": "see",
+      "verb 2": "saw",
+      "verb 3": "seen",
+      "arti": "melihat"
+    },
+    {
+      "verb 1": "sell",
+      "verb 2": "sold",
+      "verb 3": "sold",
+      "arti": "menjual"
+    },
+    {
+      "verb 1": "send",
+      "verb 2": "sent",
+      "verb 3": "sent",
+      "arti": "mengirim"
+    },
+    {
+      "verb 1": "set",
+      "verb 2": "set",
+      "verb 3": "set",
+      "arti": "menetapkan"
+    },
+    {
+      "verb 1": "show",
+      "verb 2": "showed",
+      "verb 3": "shown",
+      "arti": "menunjukkan"
+    },
+    {
+      "verb 1": "sing",
+      "verb 2": "sang",
+      "verb 3": "sung",
+      "arti": "menyanyi"
+    },
+    {
+      "verb 1": "sit",
+      "verb 2": "sat",
+      "verb 3": "sat",
+      "arti": "duduk"
+    },
+    {
+      "verb 1": "sleep",
+      "verb 2": "slept",
+      "verb 3": "slept",
+      "arti": "tidur"
+    },
+    {
+      "verb 1": "speak",
+      "verb 2": "spoke",
+      "verb 3": "spoken",
+      "arti": "berbicara"
+    },
+    {
+      "verb 1": "spend",
+      "verb 2": "spent",
+      "verb 3": "spent",
+      "arti": "menghabiskan"
+    },
+    {
+      "verb 1": "stand",
+      "verb 2": "stood",
+      "verb 3": "stood",
+      "arti": "berdiri"
+    },
+    {
+      "verb 1": "steal",
+      "verb 2": "stole",
+      "verb 3": "stolen",
+      "arti": "mencuri"
+    },
+    {
+      "verb 1": "swim",
+      "verb 2": "swam",
+      "verb 3": "swum",
+      "arti": "berenang"
+    },
+    {
+      "verb 1": "take",
+      "verb 2": "took",
+      "verb 3": "taken",
+      "arti": "mengambil"
+    },
+    {
+      "verb 1": "teach",
+      "verb 2": "taught",
+      "verb 3": "taught",
+      "arti": "mengajar"
+    },
+    {
+      "verb 1": "tell",
+      "verb 2": "told",
+      "verb 3": "told",
+      "arti": "memberitahu"
+    },
+    {
+      "verb 1": "think",
+      "verb 2": "thought",
+      "verb 3": "thought",
+      "arti": "berpikir"
+    },
+    {
+      "verb 1": "throw",
+      "verb 2": "threw",
+      "verb 3": "thrown",
+      "arti": "melempar"
+    },
+    {
+      "verb 1": "understand",
+      "verb 2": "understood",
+      "verb 3": "understood",
+      "arti": "memahami"
+    },
+    {
+      "verb 1": "wake",
+      "verb 2": "woke",
+      "verb 3": "woken",
+      "arti": "bangun"
+    },
+    {
+      "verb 1": "wear",
+      "verb 2": "wore",
+      "verb 3": "worn",
+      "arti": "memakai"
+    },
+    {
+      "verb 1": "win",
+      "verb 2": "won",
+      "verb 3": "won",
+      "arti": "menang"
+    },
+    {
+      "verb 1": "write",
+      "verb 2": "wrote",
+      "verb 3": "written",
+      "arti": "menulis"
+    }
+  ]
+}
